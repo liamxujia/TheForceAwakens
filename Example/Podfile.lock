@@ -1,0 +1,16 @@
+PODS:
+  - TheForceAwakens (0.1.0)
+
+DEPENDENCIES:
+  - TheForceAwakens (from `../`)
+
+EXTERNAL SOURCES:
+  TheForceAwakens:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TheForceAwakens: 9bd5419d0c01de37a504da699e60d4b142e1d617
+
+PODFILE CHECKSUM: a72ca964f757dd52b8dca1a1227382ee99086e77
+
+COCOAPODS: 1.9.3

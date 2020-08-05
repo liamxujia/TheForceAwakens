@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TheForceAwakens_Example' do
+  pod 'TheForceAwakens', :path => '../'
+
+  target 'TheForceAwakens_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
